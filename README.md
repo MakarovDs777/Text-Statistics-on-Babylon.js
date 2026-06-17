@@ -9,3 +9,7 @@
 И сделаем много текстов статистики а не одну.
 
 [Text Statistics on Babylon.js! (Version 2 - More texts) | Babylon.js Playground](https://playground.babylonjs.com/#QDJ0QH)
+
+И добавим кнопку загрузки многих текстов которые все в одной папке.
+
+[Text Statistics on Babylon.js! (Version 3 - Button choice all texts) | Babylon.js Playground](https://playground.babylonjs.com/#B4P8OE)
