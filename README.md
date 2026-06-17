@@ -5,3 +5,7 @@
 Добавим кнопку скачивания статистики.
 
 [Text Statistics on Babylon.js! (Version 1 - Download Text Statistics) | Babylon.js Playground](https://playground.babylonjs.com/#AHKO6X)
+
+И сделаем много текстов статистики а не одну.
+
+[Text Statistics on Babylon.js! (Version 2 - More texts) | Babylon.js Playground](https://playground.babylonjs.com/#QDJ0QH)
