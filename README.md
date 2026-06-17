@@ -13,3 +13,7 @@
 И добавим кнопку загрузки многих текстов которые все в одной папке.
 
 [Text Statistics on Babylon.js! (Version 3 - Button choice all texts) | Babylon.js Playground](https://playground.babylonjs.com/#B4P8OE)
+
+Теперь нужно узнать процентны слов в тексте.
+
+[Text Statistics on Babylon.js! (Version 4 - Percentages of words) | Babylon.js Playground](https://playground.babylonjs.com/#X0WZBT)
