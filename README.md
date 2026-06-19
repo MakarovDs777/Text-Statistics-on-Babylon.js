@@ -17,3 +17,7 @@
 Теперь нужно узнать процентны слов в тексте.
 
 [Text Statistics on Babylon.js! (Version 4 - Percentages of words) | Babylon.js Playground](https://playground.babylonjs.com/#X0WZBT)
+
+Теперь нужно добавить кнопку просмотра текста.
+
+[Text Statistics on Babylon.js! (Version 5 - Viemer Texts) | Babylon.js Playground](https://playground.babylonjs.com/#1O46V7)
